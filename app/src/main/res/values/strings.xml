@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Project_LogIn</string>
+    <string name="username">"  "UserName</string>
+    <string name="password">"  "Password</string>
+    <string name="logoimage">logoImage</string>
+    <string name="login">LogIn</string>
+    <string name="create">Create</string>
+    <string name="full_name">"  "Full Name</string>
+    <string name="email">"  "Email</string>
+    <string name="reglogo">RegistrationLogo</string>
+    <string name="address">"  "Address</string>
+    <string name="save">Save</string>
+    <string name="save_confirm">Do you want to save?</string>
+    <string name="create_new">Registration</string>
+    <string name="login_confirm">LogIn</string>
+    <string name="correct_username_password">Is username and Password correct?</string>
+    <string name="create_new_acc">Do you want to create new acc??</string>
+    <string name="phone">Phone</string>
+    <string name="delete">DELETE</string>
+    <string name="deleteTitle">Do you want to delete this username?</string>
+</resources>
